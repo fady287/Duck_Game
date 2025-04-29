@@ -10,7 +10,7 @@ struct Menu {
     Texture backgroundTexture;
     Sprite background;
     Music menuMusic;
-    Text menuText[3];
+    Text menuText[5];
     int selected;
     Font font;
 };
